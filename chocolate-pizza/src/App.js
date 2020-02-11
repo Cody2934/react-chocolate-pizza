@@ -1,5 +1,4 @@
 import React from 'react';
-// import logo from './logo.svg';
 import './App.css';
 import Footer from "./bottom.js";
 import Section4 from "./ingredients.js";
